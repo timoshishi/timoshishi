@@ -35,7 +35,7 @@
     - [Parsing HTML with Regular Expressions](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454)
  
 - 👯 I’m looking to collaborate on open source WASM projects
-- 👩‍🍳 Ask me about food I used to be a chef and love to talk shop
+- 👩‍🍳 Ask me about food. I used to be a chef and still love to talk shop
 - 🌍️ Fun fact: I have lived and worked in different capacities in 4 countries and 1 U.S. territory.
 - 🗒️ My backlog
     - Rebuilding the greatest game ever created, [Bolo](<https://en.wikipedia.org/wiki/Bolo_(1982_video_game>) with PixieJS and socketi
