@@ -56,7 +56,7 @@
 <img align="left" alt="MongoDB" width="36px" height="auto" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/html.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
 <!-- aws logo -->
-
+</br>
 </div>
 
 ### What I've been up to lately:
@@ -65,14 +65,15 @@
 
 <div style="margin-right:1rem;">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=timoshishi&theme=dark)
+<img src="https://streak-stats.demolab.com?user=timoshishi&theme=dark" />
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=timoshishi&theme=dark) -->
 
 </div>
 
 <div style="margin-left:1rem;">
 
-
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=timoshishi&theme=dark&layout=compact&hide=html&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timoshishi&theme=dark&layout=compact&hide=html&show_icons=true" />
+<!-- ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=timoshishi&theme=dark&layout=compact&hide=html&show_icons=true) -->
 
 </div>
 
