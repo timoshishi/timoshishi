@@ -32,7 +32,6 @@
 - 🛌 Bedtime Reading
     - [How to exit Vim](https://github.com/hakluke/how-to-exit-vim)
     - [FizzBuzz Enterprise Edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)
-    - [Parsing HTML with Regular Expressions](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454)
  
 - 🌍️ Fun fact: I have lived and worked in different capacities in 4 countries and 1 U.S. territory.
 - 🗒️ My backlog
