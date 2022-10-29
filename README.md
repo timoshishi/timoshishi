@@ -2,7 +2,7 @@
 <!-- markdownlint-disable-file -->
 <!-- markdownlint-disable-next-line -->
 
-# Hi there 👋, my name is tim
+# Hi there 👋
 
 <div style="display:flex;">
 <div style="margin-right:1rem;">
@@ -21,16 +21,11 @@
 </div>
 <br/>
 
-### Skills:
- **Typescript | React | Node | Nunchuck Skills | SQL | NoSQL | Bow Staff Skills**
-
-
 - 🔭 I’m currently working on a social network of one, and a few other things.
 
 - 🛌 Bedtime Reading
     - [How to exit Vim](https://github.com/hakluke/how-to-exit-vim)
     - [FizzBuzz Enterprise Edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)
-- 📫 How to reach me: timfrrst@gmail.com
 
 <div style="margin-top:1rem;">
 </div>
