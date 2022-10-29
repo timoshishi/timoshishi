@@ -4,7 +4,6 @@
 
 # Hi there 👋, my name is tim
 
-## I am a human that likes to build applications
 <div style="display:flex;">
 <div style="margin-right:1rem;">
 <a href="https://www.linkedin.com/in/timfrrst/">
@@ -22,29 +21,21 @@
 </div>
 <br/>
 
-### Stuff I'm not too shabby at:
+### Skills:
  **Typescript | React | Node | Nunchuck Skills | SQL | NoSQL | Bow Staff Skills**
 
 
-### TMI:
-- 🔭 I’m currently working on a social network of one, an AWS based event service and a few other things.
+- 🔭 I’m currently working on a social network of one, and a few other things.
 
 - 🛌 Bedtime Reading
     - [How to exit Vim](https://github.com/hakluke/how-to-exit-vim)
     - [FizzBuzz Enterprise Edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)
- 
-- 🌍️ Fun fact: I have lived and worked in different capacities in 4 countries and 1 U.S. territory.
-- 🗒️ My backlog
-    - Rebuilding the greatest game ever created, [Bolo](<https://en.wikipedia.org/wiki/Bolo_(1982_video_game>) with PixieJS and socketi
-    - Nicholas Cage inspired browser extension
-    - VSCode theme browser extension
-    - WASM Perceptual image hashing module
 - 📫 How to reach me: timfrrst@gmail.com
 
 <div style="margin-top:1rem;">
 </div>
 
-## Some stuff I like:
+## Some things I use and like:
 
 <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:2rem;">
 
