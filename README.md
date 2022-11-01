@@ -21,7 +21,7 @@
 </div>
 <br/>
 
-- 🔭 I’m currently working on a social network of one, and a few other things.
+- 🔭 I’m currently working on a social network of one and a few other things.
 
 - 🛌 Bedtime Reading
     - [How to exit Vim](https://github.com/hakluke/how-to-exit-vim)
