@@ -12,7 +12,7 @@
 </div>
 <!-- email icon -->
 <div>
-<a href="mailto:timfrrst@gmail.com">
+<a href="mailto:timoshishi@timforrest.dev">
   <img align="left" alt="Tim Forrest | LinkedIn" width="24px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />
 </a>
 </div>
