@@ -55,7 +55,6 @@
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=timoshishi&theme=dark)
-
 </div>
 
 <div style="margin-left:1rem;">
@@ -67,3 +66,4 @@
 
 </div>
 
+![](https://hit.yhype.me/github/profile?user_id=40459445)
