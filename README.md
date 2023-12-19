@@ -60,7 +60,7 @@
 <div style="margin-left:1rem;">
 
 
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=timoshishi&theme=dark&layout=compact&hide=html,scilab&show_icons=true)
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=timoshishi&theme=dark&layout=compact&hide=html&show_icons=true)
 
 </div>
 
