@@ -2,7 +2,7 @@
 <!-- markdownlint-disable-file -->
 <!-- markdownlint-disable-next-line -->
 
-# Hi there 👋
+# hi there 👋
 
 <div style="display:flex;">
 <div style="margin-right:1rem;">
@@ -21,9 +21,9 @@
 </div>
 <br/>
 
-- 🔭 I’m currently working on a social network of one and a few other things.
+- 🤖 i’m currently working on a diffusers based generative ai pipeline and a few other things.
 
-- 🛌 Bedtime Reading
+- 🛌 bedtime reading
     - [How to exit Vim](https://github.com/hakluke/how-to-exit-vim)
     - [FizzBuzz Enterprise Edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)
 
@@ -43,7 +43,6 @@
 <img align="left" alt="Docker" width="36px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />
 <img align="left" alt="PostgreSQL" width="36px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/databases/postgresql.svg" />
 <img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/ubuntu.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
 </br>
 </div>
 
