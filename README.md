@@ -29,12 +29,12 @@
 
 <div style="margin-top:1rem;">
 </div>
-
+<!--
 ## Some things I use and like:
-
+<!--
 <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:2rem;">
 
-
+<!--
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
@@ -45,7 +45,7 @@
 <img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/ubuntu.svg" />
 </br>
 </div>
-
+-->
 ### What I've been up to lately:
 
 <div style="display:flex;align-items:flex-end;justify-content:center;margin-top:2rem;">
