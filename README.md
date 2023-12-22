@@ -7,13 +7,13 @@
 <div style="display:flex;">
 <div style="margin-right:1rem;">
 <a href="https://www.linkedin.com/in/timfrrst/">
-  <img align="left" alt="Tim Forrest | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Tim Forrest | LinkedIn" width="24px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" />
   </a>
 </div>
 <!-- email icon -->
 <div>
 <a href="mailto:timoshishi@timforrest.dev">
-  <img align="left" alt="Tim Forrest | LinkedIn" width="24px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />
+  <img align="left" alt="Tim Forrest | LinkedIn" width="24px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" />
 </a>
 </div>
 <!-- website logo -->
