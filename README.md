@@ -21,7 +21,7 @@
 </div>
 <br/>
 
-- 🤖 i’m currently working on a diffusers based generative ai pipeline and a few other things.
+- 🤖 i’m currently working on a diffusers-based generative ai pipeline and a few other things.
 
 - 🛌 bedtime reading
     - [How to exit Vim](https://github.com/hakluke/how-to-exit-vim)
